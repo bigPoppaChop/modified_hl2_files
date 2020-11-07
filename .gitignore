@@ -1,0 +1,20 @@
+## ignores these folders & files when pushing to github ##
+hl2_CLEAN\bin
+
+hl2_CLEAN\cfg
+
+hl2_CLEAN\downloadlists
+
+hl2_CLEAN\maps
+
+hl2_CLEAN\media
+
+hl2_CLEAN\media
+
+hl2_CLEAN\save
+
+hl2_CLEAN\scripts\vehicles
+
+hl2_CLEAN\scripts\talker
+
+vpks
