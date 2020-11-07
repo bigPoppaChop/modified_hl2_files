@@ -9,8 +9,8 @@ WeaponData
 	"anim_prefix"			"ar2"
 	//Default bucket 2,1
 	"bucket"			"2"
-	"bucket_position"		"1"
-	"bucket_360"			"1"
+	"bucket_position"		"3"
+	"bucket_360"			"0"
 	"bucket_position_360"		"2"
 
 	"clip_size"			"30"

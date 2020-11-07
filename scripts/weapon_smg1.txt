@@ -8,8 +8,8 @@ WeaponData
 	"playermodel"			"models/weapons/w_smg1.mdl"	//FIXME: 
 	"anim_prefix"			"smg2"	
 	//Default bucket 2,0
-	"bucket"				"2"
-	"bucket_position"		"0"
+	"bucket"				"1"
+	"bucket_position"		"1"
 	"bucket_360"			"1"
 	"bucket_position_360"	"0"
 
